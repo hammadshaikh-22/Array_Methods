@@ -14,12 +14,12 @@
 // var arr5=arr4.slice(1,4)
 // console.log(arr5)
 
-// var arr6=[10,20,30,40,50]
-// var arr7=arr6.slice(arr6.length-3,arr6.length)
-// console.log(arr7)
+var arr6=[10,20,30,40,50]
+var arr7=arr6.slice(arr6.length-3,arr6.length)
+console.log(arr7)
 
-// arr6.splice(1,3)
-// console.log(arr6)
+arr6.splice(1,3)
+console.log(arr6)
 
 var arr8=[1,2,3]
 var arr9=[4,5,6]
