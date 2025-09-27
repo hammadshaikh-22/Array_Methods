@@ -21,11 +21,11 @@
 // arr6.splice(1,3)
 // console.log(arr6)
 
-// var arr8=[1,2,3]
-// var arr9=[4,5,6]
-// // var arr10= arr8.concat(arr9) 
-// var arr10=arr8.slice(0,3).concat(arr9.slice(0,3))
-// console.log(arr10)
+var arr8=[1,2,3]
+var arr9=[4,5,6]
+// var arr10= arr8.concat(arr9) 
+var arr10=arr8.slice(0,3).concat(arr9.slice(0,3))
+console.log(arr10)
 
 
 var arr=[1,2,3,4]
