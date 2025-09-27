@@ -6,9 +6,9 @@
 // arr2.splice(3,0,4)
 // console.log(arr2)
 
-// var arr3=['a','b','c','d']
-// arr3.splice(1,1,'x')
-// console.log(arr3)
+var arr3=['a','b','c','d']
+arr3.splice(1,1,'x')
+console.log(arr3)
 
 var arr4=[100,200,300,400,500]
 var arr5=arr4.slice(1,4)
