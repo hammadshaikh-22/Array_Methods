@@ -10,9 +10,9 @@
 // arr3.splice(1,1,'x')
 // console.log(arr3)
 
-// var arr4=[100,200,300,400,500]
-// var arr5=arr4.slice(1,4)
-// console.log(arr5)
+var arr4=[100,200,300,400,500]
+var arr5=arr4.slice(1,4)
+console.log(arr5)
 
 var arr6=[10,20,30,40,50]
 var arr7=arr6.slice(arr6.length-3,arr6.length)
