@@ -1,6 +1,6 @@
-// var arr=[10,20,30,40,50]
-// arr.splice(2,1)
-// console.log(arr)
+var arr=[10,20,30,40,50]
+arr.splice(2,1)
+console.log(arr)
 
 var arr2=[1,2,3,5]
 arr2.splice(3,0,4)
